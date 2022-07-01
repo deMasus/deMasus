@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deMasus
-- 👀 I’m interested in MISP, docker-MISP, ITSec
+- 👀 I’m interested in MISP, docker-MISP, ITSec, enterprise networking.
 - 📫 How to reach me demasus@gmail.com
 
 <!---
